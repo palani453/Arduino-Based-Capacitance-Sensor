@@ -1,4 +1,4 @@
-# Arduino-Based Capacitance Sensor
+# Arduino-Based-Capacitance-Sensor
 
 This project presents a liquid capacitance measurement system developed using an Arduino Uno. It is designed to analyze the dielectric properties of various liquids in a non-invasive, repeatable manner. The setup utilizes a cavity with copper plates that are charged and discharged by the Arduino. Real-time capacitance values are displayed on a 16x2 I2C LCD screen, offering a user-friendly and portable liquid analysis tool.
 
